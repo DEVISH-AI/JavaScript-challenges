@@ -1,7 +1,7 @@
 // Activity 1: Template Literals
-// Task 1: Use template literals to create a string taht includes variables for
+// Task 1: Use template literals to create a string that includes variables for
 // // a person's name and age, and log the string to the console.
-
+ 
 // const name = "Alice";
 // const age = 30;
 
@@ -116,3 +116,4 @@
 // };
 
 // console.log(person);
+
